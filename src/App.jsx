@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <ItemListContainer />
+      <ItemListContainer greeting="¡Bienvenido! Descubre nuestra selección de balones para los distintos tipos de deportes." />
     </>
   )
 }
