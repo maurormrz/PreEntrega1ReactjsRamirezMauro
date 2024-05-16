@@ -1,10 +1,12 @@
 import './App.css'
-import NombreComponente from './components/NombreComponente'
+import { ItemListContainer } from './components/ItemListContainer'
+import { Header } from './components/header/Header'
 
 function App() {
   return (
     <>
-      <NombreComponente />
+      <Header />
+      <ItemListContainer />
     </>
   )
 }
