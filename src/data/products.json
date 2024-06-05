@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Balón de Fútbol",
+      "price": 25.00,
+      "category": "futbol",
+      "img": "/src/assets/img/futbol.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Balón de Baloncesto",
+      "price": 30.00,
+      "category": "baloncesto",
+      "img": "/src/assets/img/baloncesto.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Balón de Voley",
+      "price": 20.00,
+      "category": "voley",
+      "img": "/src/assets/img/voley.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pelota de Tenis",
+      "price": 10.00,
+      "category": "tenis",
+      "img": "/src/assets/img/tenis.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Balón de Rugby",
+      "price": 35.00,
+      "category": "rugby",
+      "img": "/src/assets/img/rugby.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pelota de Golf",
+      "price": 15.00,
+      "category": "golf",
+      "img": "/src/assets/img/golf.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Balón de Handball",
+      "price": 22.00,
+      "category": "handball",
+      "img": "/src/assets/img/handball.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pelota de Beisbol",
+      "price": 12.00,
+      "category": "beisbol",
+      "img": "/src/assets/img/beisbol.jpg"
+    }
+  ]  

@@ -1,15 +1,16 @@
-import React from 'react'
-import { NavBar } from './NavBar'
-import { Cart } from './CartWidget'
+import React from 'react';
+import { NavBar } from './NavBar';
+import { Cart } from './CartWidget';
+import { Link } from 'react-router-dom';
 
 export const Header = () => {
   return (
-    <div>
-        <header className='header'>
-            <h1 className='header-title'>SportBall</h1>
-            <NavBar />
-            <Cart />
-        </header>
-    </div>
-  )
-}
+    <header className='header'>
+      <Link to="/" className='header-title'>
+        SportBall
+      </Link>
+      <NavBar />
+      <Cart />
+    </header>
+  );
+};
